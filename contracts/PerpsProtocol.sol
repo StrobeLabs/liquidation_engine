@@ -1,13 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-import "./PerpsAccounts.sol";
-import "./PerpsPairs.sol";
-
 contract PerpsProtocol {
     Order[] public orders;
-    PerpsAccounts public perpsAccounts;
-    PerpsPairs public perpsPairs;
     mapping(bytes32 => Pair) public pairs; // Pair identifier (hash of tokens) to Pair
     mapping(address => PerpsAccount) public accounts;
 
@@ -73,6 +68,12 @@ contract PerpsProtocol {
 
     function verifyProof(bytes memory proof) internal pure returns(bool) {
         // TODO: Add the actual proof verification logic here
+        // verify inputs:
+        //      accountBalance
+        //      timestamp
+        //      order (account, pair, type, amount)
+
+        // cross-margin requirement = 
         proof = proof;
         return true;  // Placeholder
     }
@@ -83,7 +84,7 @@ contract PerpsProtocol {
 
     function createOrder(uint256 pairIndex, OrderType orderType, uint256 amount) external {
         require(perpsAccounts.getAccountBalance(msg.sender) >= amount, "Insufficient funds in PerpsAccount");
-
+        // assume no trading fee, all orders are 10x leverage
         orders.push(Order({
             user: msg.sender,
             pairIndex: pairIndex,
