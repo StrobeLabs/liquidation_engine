@@ -1,3 +1,5 @@
+pragma solidity ^0.8.0;
+
 // Trading Pair Contract
 contract TradingPair {
     address public vaultAddress;
