@@ -78,12 +78,12 @@ contract PerpsProtocol {
         return true;  // Placeholder
     }
 
-    function getAccountBalance(address user) external view returns(uint256) {
+    function getAccountBalance(address user) public view returns(uint256) {
         return accounts[user].balance;
     }
 
     function createOrder(uint256 pairIndex, OrderType orderType, uint256 amount) external {
-        require(perpsAccounts.getAccountBalance(msg.sender) >= amount, "Insufficient funds in PerpsAccount");
+        require(getAccountBalance(msg.sender) >= amount, "Insufficient funds in PerpsAccount");
         // assume no trading fee, all orders are 10x leverage
         orders.push(Order({
             user: msg.sender,
@@ -92,6 +92,8 @@ contract PerpsProtocol {
             amount: amount
         }));
     }
+
+
 
     function getOrder(uint256 index) external view returns(address, uint256, OrderType, uint256) {
         require(index < orders.length, "Invalid order index");
