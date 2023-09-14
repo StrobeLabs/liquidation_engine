@@ -93,8 +93,6 @@ contract PerpsProtocol {
         }));
     }
 
-
-
     function getOrder(uint256 index) external view returns(address, uint256, OrderType, uint256) {
         require(index < orders.length, "Invalid order index");
         Order memory order = orders[index];
