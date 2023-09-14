@@ -26,7 +26,8 @@ sample_input = torch.tensor([1000.0, 50.0, 5.0])
 model = RiskScoreModel()
 output = model(sample_input)
 
-print(f"Risk Score: {output.item()}")
+print("Risk Score: ")
+print(output.item())
 
 # Set the model to evaluation mode
 model.eval()
@@ -38,4 +39,4 @@ dummy_input = torch.tensor([1000.0, 50.0, 5.0])
 onnx_filename = "liquidation_score_model.onnx"
 torch.onnx.export(model, dummy_input, onnx_filename)
 
-print(f"Model exported to {onnx_filename}")
+print("Model exported to liquidation_score_model")
