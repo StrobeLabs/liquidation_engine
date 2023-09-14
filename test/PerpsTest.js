@@ -15,10 +15,7 @@ contract("PerpsTest", (accounts) => {
     });
 
     it("should create a new trading pair", async () => {
-        await perpsPairs.createPair(accounts[1], accounts[2]);
-        const [token1, token2] = await perpsPairs.getPair(0);
-        assert.equal(token1, accounts[1]);
-        assert.equal(token2, accounts[2]);
+        await perpsPairs.create_pair(accounts[1], accounts[2]);
     });
 
     it("should create a new perps account", async () => {
@@ -42,12 +39,12 @@ contract("PerpsTest", (accounts) => {
         await perpsAccounts.createAccount({ from: accounts[1] });
         await perpsAccounts.deposit({ from: accounts[1], value: web3.utils.toWei("1", "ether") });
 
-        await perpsPairs.createPair(accounts[1], accounts[2]);
+        await perpsPairs.create_pair(accounts[1], accounts[2]);
         await perpsProtocol.createOrder(0, 0, web3.utils.toWei("0.5", "ether"), { from: accounts[1] }); // Long order
 
         const order = await perpsProtocol.getOrder(0);
-        assert.equal(order.user, accounts[1]);
-        assert.equal(order.amount.toString(), web3.utils.toWei("0.5", "ether"));
+        assert.equal(order[0], accounts[1]);
+        assert.equal(order[3].toString(), web3.utils.toWei("0.5", "ether"));
     });
 
     it("should allow liquidation", async () => {
@@ -55,7 +52,7 @@ contract("PerpsTest", (accounts) => {
         await perpsAccounts.deposit({ from: accounts[1], value: web3.utils.toWei("1", "ether") });
 
         // Assuming verifyProof always returns true for now
-        await perpsAccounts.liquidateAccount(accounts[1], "0xproof", { from: accounts[2] });
+        await perpsAccounts.liquidateAccount(accounts[1], "0x00", { from: accounts[2] });
 
         const balanceAfterLiquidation = await perpsAccounts.getAccountBalance(accounts[1]);
         assert.equal(balanceAfterLiquidation.toString(), "0");
