@@ -5,7 +5,7 @@ import {
   useContractWrite,
   useSwitchNetwork
 } from 'wagmi';
-import { formatUnits, parseEther } from 'viem';
+import { formatUnits, fromHex, parseEther } from 'viem';
 import { ConnectKitButton } from 'connectkit'
 import { Flex } from '@radix-ui/themes';
 import { init } from 'klinecharts'
@@ -123,13 +123,13 @@ export function App() {
         <h1 className="text-xl"><b>Amount:</b> {accountBalance > 0 ? accountBalance : 'N/A'}</h1>
         <Button
           variant="secondary"
-          onClick={() => createOrder({ args: [1n, 0, 1n]})}
+          onClick={() => createOrder({ args: [fromHex('0x870ee1d2b32c6e2df49712b7c734fd9b1941d6e7333e5a4f34a3dbf95e24183d', 'bigint'), 0, 10n]})}
         >
           Long
         </Button>
         <Button
           variant="destructive"
-          onClick={() => createOrder({ args: [1n, 1, 1n]})}
+          onClick={() => createOrder({ args: [fromHex('0x870ee1d2b32c6e2df49712b7c734fd9b1941d6e7333e5a4f34a3dbf95e24183d', 'bigint'), 1, 10n]})}
         >
           Short
         </Button>
