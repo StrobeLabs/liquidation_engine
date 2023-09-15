@@ -1,9 +1,69 @@
-# liquidation_engine
+# Proving-Driven Liquidations
 
 ### A Liquidation Engine Powered by Proving Middleware
 
-Perpetuals are a type of financial instrument that has been popular for trading crypto assets. They let you track the price of an asset without neccesarily needing to own the asset.
+In this project, we demonstrate a method for succinct proofs as triggers to liquidate undercollateralized trades in permissionless markets. 
 
-Currently there are two approaches to designing markets for perpetuals -- fully on chain with limited complexity and limited trust assumptions and mostly off chain with more complexity and more trust assumptions. With zero knowledge technology, we may actually be able to get the best of both worlds. 
+<img width="1440" alt="Screen Shot 2023-09-15 at 12 20 53 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/92556fc3-7291-460f-b0ed-d3bc9ceeee96">
+<img width="1440" alt="Screen Shot 2023-09-15 at 12 19 50 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/e0ce101f-3d2c-4b74-a7ad-44c137af59b9">
+<img width="1379" alt="Screen Shot 2023-09-15 at 12 53 35 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/b0ba5d83-0ffe-4ca7-a1c3-aae065952813">
 
-In this project, we use state proofs and zkml to design a fully permissionless perpetuals market with a liquidation engine powered by proving middleware. Users can deposit collateral and submit orders on chain. Actors can only liquidate users if they prove they ran the risk engine on a set of inputs that represent historical on chain state. 
+### Get Started
+First, you'll need the following installed:
+- metamask / coinbase wallet / walletconnect compatible wallet
+- python
+- rust
+- torch
+- npm
+- vite
+- ezkl cli (https://docs.ezkl.xyz/getting_started/)
+
+Next, you can interact with the smart contracts deployed on Sepolia Testnet here: 
+  https://sepolia.etherscan.io/address/0x04c046d793da4fb808bec147772b8042bc8c5056
+
+The functioning smart contract actions include:
+  - createAccount
+  - createPair
+  - createOrder
+  - deposit
+  - withdraw
+  - liquidate
+  - closePosition
+  - setMaitenanceMarginRatio
+  - totalOrders
+  - getAccountBalance
+  - getContractBalance
+
+To deploy the contracts yourself, we recommend using Atlas (https://atlaszk.com/)
+
+You can view the trading interface by running:
+  vite preview
+
+After connecting your wallet, you should be able to open long and short positions for pairs that have been created. You should also be able to deposit and withdraw. 
+
+You can view the orderbook by navigating to:
+  /dashboard
+
+In order to liquidate a position, you'll have to first copy the fields in the corresponding row on the dashboard. Then, you can compute the risk score for that position by running:
+  python liquidation_model.py with those fields as inputs
+
+This will generate a .onnx file that you'll need in order to prove the output. Follow EZKL's instructions (https://docs.ezkl.xyz/getting_started/) to perform:
+  - create a setup
+  - settings generation
+  - witness generation
+  - proof generation
+  - local verification
+  - evm verifier
+
+Then, you'll want to copy the public inputs (instances) in a uint256[] and the proof in bytes: 
+  navigate to model/flatten
+  cargo run
+
+Lastly, to liquidate, you can call the liquidate function (using AtlasZK or the frontend), passing in:
+  - the orderer's address
+  - orderID
+  - proof
+  - inputs used for the model
+
+
+
