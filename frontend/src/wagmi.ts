@@ -1,12 +1,16 @@
 import { getDefaultConfig } from 'connectkit'
 import { createConfig } from 'wagmi'
+import { sepolia } from 'viem/chains';
 
-const walletConnectProjectId = 'bruh'
+const walletConnectProjectId = ''
+
+const chains = [sepolia];
 
 export const config = createConfig(
   getDefaultConfig({
     autoConnect: true,
-    appName: 'My wagmi + ConnectKit App',
+    appName: '!dydx',
     walletConnectProjectId,
+    chains
   })
 )
