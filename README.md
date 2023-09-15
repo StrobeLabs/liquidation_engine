@@ -62,4 +62,7 @@ Lastly, to liquidate, you can call the liquidate function (using AtlasZK or the 
   - inputs used for the model
 
 
-
+<img width="1379" alt="Screen Shot 2023-09-15 at 12 53 35 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/b0ba5d83-0ffe-4ca7-a1c3-aae065952813">
+<img width="1440" alt="Screen Shot 2023-09-15 at 12 20 53 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/dc52f7f7-dd62-497c-819d-0421961113e
+<img width="1440" alt="Screen Shot 2023-09-15 at 12 20 53 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/495797d8-2db2-4f4b-84e3-427b89cda431">
+6">
