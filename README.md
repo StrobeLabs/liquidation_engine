@@ -4,9 +4,9 @@
 
 In this project, we demonstrate a method for succinct proofs as triggers to liquidate undercollateralized trades in permissionless markets. 
 
-<img width="1379" alt="Screen Shot 2023-09-15 at 12 53 35 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/b0ba5d83-0ffe-4ca7-a1c3-aae065952813">
 <img width="1440" alt="Screen Shot 2023-09-15 at 12 20 53 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/92556fc3-7291-460f-b0ed-d3bc9ceeee96">
-<img width="1440" alt="Screen Shot 2023-09-15 at 12 20 53 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/6a507e7e-ce0e-48fb-a17c-7cde896d5470">
+<img width="1440" alt="Screen Shot 2023-09-15 at 12 19 50 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/e0ce101f-3d2c-4b74-a7ad-44c137af59b9">
+<img width="1379" alt="Screen Shot 2023-09-15 at 12 53 35 PM" src="https://github.com/nirel1/liquidation_engine/assets/66135497/b0ba5d83-0ffe-4ca7-a1c3-aae065952813">
 
 ### Get Started
 First, you'll need the following installed:
