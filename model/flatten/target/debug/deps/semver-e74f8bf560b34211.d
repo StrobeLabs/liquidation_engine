@@ -1,0 +1,13 @@
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/semver-e74f8bf560b34211.rmeta: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/backport.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/display.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/error.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/eval.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/identifier.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/impls.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/parse.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/serde.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/semver-e74f8bf560b34211.d: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/backport.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/display.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/error.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/eval.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/identifier.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/impls.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/parse.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/serde.rs
+
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/lib.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/backport.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/display.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/error.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/eval.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/identifier.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/impls.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/parse.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.18/src/serde.rs:

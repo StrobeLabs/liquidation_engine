@@ -1,0 +1,11 @@
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/futures_channel-41b20dc618f3a3be.rmeta: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lock.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/mod.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/queue.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/oneshot.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/libfutures_channel-41b20dc618f3a3be.rlib: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lock.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/mod.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/queue.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/oneshot.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/futures_channel-41b20dc618f3a3be.d: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lock.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/mod.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/queue.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/oneshot.rs
+
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lib.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/lock.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/mod.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/mpsc/queue.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.28/src/oneshot.rs:

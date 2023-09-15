@@ -1,0 +1,11 @@
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/futures_core-27d2266d67d3f827.rmeta: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/future.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/stream.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/mod.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/poll.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/mod.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/atomic_waker.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/futures_core-27d2266d67d3f827.d: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/future.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/stream.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/mod.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/poll.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/mod.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/atomic_waker.rs
+
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/lib.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/future.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/stream.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/mod.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/poll.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/mod.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.28/src/task/__internal/atomic_waker.rs:

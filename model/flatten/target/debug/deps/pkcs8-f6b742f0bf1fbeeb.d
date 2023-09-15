@@ -1,0 +1,12 @@
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/pkcs8-f6b742f0bf1fbeeb.rmeta: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/error.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/private_key_info.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/traits.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/version.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/../README.md
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/libpkcs8-f6b742f0bf1fbeeb.rlib: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/error.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/private_key_info.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/traits.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/version.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/../README.md
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/pkcs8-f6b742f0bf1fbeeb.d: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/error.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/private_key_info.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/traits.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/version.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/../README.md
+
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/lib.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/error.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/private_key_info.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/traits.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/version.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.10.2/src/../README.md:

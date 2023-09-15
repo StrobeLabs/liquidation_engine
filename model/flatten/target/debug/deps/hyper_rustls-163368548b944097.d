@@ -1,0 +1,11 @@
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/hyper_rustls-163368548b944097.rmeta: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/config.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/connector.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/connector/builder.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/stream.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/libhyper_rustls-163368548b944097.rlib: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/config.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/connector.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/connector/builder.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/stream.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/hyper_rustls-163368548b944097.d: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/config.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/connector.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/connector/builder.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/stream.rs
+
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/lib.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/config.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/connector.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/connector/builder.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.24.1/src/stream.rs:

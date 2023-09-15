@@ -1,0 +1,1 @@
+{"rustc":4243273980163503598,"features":"[\"alloc\", \"default\", \"std\"]","target":7069105237705923884,"profile":8344124108420085910,"path":11510250911001144103,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/fastrand-0257d69fc39f298c/dep-lib-fastrand"}}],"rustflags":[],"metadata":10402231642546230285,"config":2202906307356721367,"compile_kind":0}

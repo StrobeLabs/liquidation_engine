@@ -1,0 +1,10 @@
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/tokio_tungstenite-9813fe2e0062edc5.rmeta: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/compat.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/connect.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/handshake.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/stream.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/tls.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/tokio_tungstenite-9813fe2e0062edc5.d: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/compat.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/connect.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/handshake.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/stream.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/tls.rs
+
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/lib.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/compat.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/connect.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/handshake.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/stream.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.20.0/src/tls.rs:

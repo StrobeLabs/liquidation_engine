@@ -1,0 +1,12 @@
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/libthiserror_impl-6c93cb3cceba0338.dylib: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/ast.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/attr.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/expand.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/fmt.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/generics.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/prop.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/valid.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/thiserror_impl-6c93cb3cceba0338.d: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/ast.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/attr.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/expand.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/fmt.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/generics.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/prop.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/valid.rs
+
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/lib.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/ast.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/attr.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/expand.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/fmt.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/generics.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/prop.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.48/src/valid.rs:

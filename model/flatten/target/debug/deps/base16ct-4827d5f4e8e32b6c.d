@@ -1,0 +1,12 @@
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/base16ct-4827d5f4e8e32b6c.rmeta: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/lower.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/mixed.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/upper.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/display.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/error.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/libbase16ct-4827d5f4e8e32b6c.rlib: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/lower.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/mixed.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/upper.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/display.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/error.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/base16ct-4827d5f4e8e32b6c.d: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/lower.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/mixed.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/upper.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/display.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/error.rs
+
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/lib.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/lower.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/mixed.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/upper.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/display.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.2.0/src/error.rs:

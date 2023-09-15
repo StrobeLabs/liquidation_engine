@@ -1,0 +1,11 @@
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/cargo_metadata-d88a2cd7e268981c.rmeta: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/dependency.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/diagnostic.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/errors.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/messages.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/libcargo_metadata-d88a2cd7e268981c.rlib: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/dependency.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/diagnostic.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/errors.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/messages.rs
+
+/Users/nigel/Desktop/git/liquidation_engine/model/flatten/target/debug/deps/cargo_metadata-d88a2cd7e268981c.d: /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/lib.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/dependency.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/diagnostic.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/errors.rs /Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/messages.rs
+
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/lib.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/dependency.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/diagnostic.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/errors.rs:
+/Users/nigel/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.17.0/src/messages.rs:
